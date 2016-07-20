@@ -10,7 +10,7 @@
 	Hello world! 
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is summer time ㅋㅋㅋㅋㅋ </P>
 <a href="/articleAdd">글쓰기</a>
 <a href="/articleList">글 목록 보기</a>
 </body>
